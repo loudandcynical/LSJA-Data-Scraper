@@ -4,3 +4,6 @@ class DataBase():
 
     def convertToCSV():
         pass
+
+    def pullData():
+        pass
