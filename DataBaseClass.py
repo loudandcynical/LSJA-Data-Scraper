@@ -7,3 +7,6 @@ class DataBase():
 
     def pullData():
         pass
+
+    def randomFunction():
+        pass
